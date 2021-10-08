@@ -1,4 +1,4 @@
-module wadverifier
+module github.com/deathzombee/wadverifier
 
 go 1.17
 
